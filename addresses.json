@@ -1,4 +1,8 @@
 {
+  "startPosition": {
+    "lat": 39.5,
+    "lng": -98.35
+  },
   "locations": [
     {
       "id": 1,
